@@ -1,4 +1,4 @@
-package cz.rob24dev.chickenfightserver;
+package dev.rwg.chickenfight.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

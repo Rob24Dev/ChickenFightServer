@@ -1,4 +1,4 @@
-package cz.rob24dev.chickenfightserver;
+package dev.rwg.chickenfight.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
