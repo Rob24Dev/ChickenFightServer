@@ -1,5 +1,5 @@
 <h1 align="center">ChickenFightBackend 💻</h1>
-<h3 align="center"> One of my first Spring Boot projects for our game ChickenFight 🐔</h3>
+<h3 align="center"> One of my first Spring Boot project for our game ChickenFight 🐔</h3>
 <h4>What can it do?</h4>
 - Register/Login Players to the Game <br>
 - Save Players Data like skills, cosmetics,... <br>
